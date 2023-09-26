@@ -48,3 +48,8 @@ body{
     font-size: 20px;
     color: #737373;
 }
+
+.input-box input::-webkit-inner-spin-button, 
+.input-box input::-webkit-outer-spin-button {
+    display: none;
+}
