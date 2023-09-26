@@ -32,6 +32,12 @@ body{
     margin-bottom: 2px;
 }
 
+.input-box .icon{
+    font-size: 25px;
+    color: #fff;
+    margin-top: 20px;
+}
+
 .wrapper .input-box input{
     max-width: 100px;
     height: 50px;
