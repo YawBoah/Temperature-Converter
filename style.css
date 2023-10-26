@@ -93,6 +93,10 @@ h1 span{
         font-size: 20px; /* Slightly reduce icon size */
       }
     
-         
+      .wrapper .input-box input {
+        max-width: 80px; /* Reduce input width for small screens */
+        height: 40px; /* Reduce input height for a more compact design */
+        font-size: 18px; /* Adjust font size for better visibility */
+      }     
   }
   
