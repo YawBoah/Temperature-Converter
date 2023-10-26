@@ -73,6 +73,12 @@ h1 span{
       background: linear-gradient(135deg, #ffffff, #ffffcc, #153677); /* Keep the background gradient for small screens */
     }
   
- 
+    h1 {
+        margin-top: 20px; /* Adjust the top margin for h1 on smaller screens */
+        margin-left: 10px; /* Adjust the left margin for h1 on smaller screens */
+        font-size: 24px; /* Reduce font size for better readability */
+      }
+    
+     
   }
   
