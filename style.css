@@ -66,3 +66,13 @@ h1 span{
 .input-box input::-webkit-outer-spin-button {
     display: none;
 }
+
+
+@media screen and (max-width: 480px) {
+    body {
+      background: linear-gradient(135deg, #ffffff, #ffffcc, #153677); /* Keep the background gradient for small screens */
+    }
+  
+ 
+  }
+  
