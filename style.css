@@ -60,6 +60,7 @@ h1 span{
     text-align: center;
     font-size: 20px;
     color: #737373;
+    
 }
 
 .input-box input::-webkit-inner-spin-button, 
@@ -88,6 +89,7 @@ ul {
     margin-left: 20px;
     font-size: 18px;
     color: #019f55;
+    list-style: none;
 }
 
 @media screen and (max-width: 480px) {
