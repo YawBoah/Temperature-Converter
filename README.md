@@ -2,8 +2,7 @@
 
 Convert temperatures between Celsius and Fahrenheit with this simple web application.
 
-![image](https://github.com/YawBoah/Temperature-Convertor/assets/126890146/3af2e59f-f429-44bc-898a-0a62f6407104)
-
+![image](https://github.com/YawBoah/Temperature-Converter/assets/126890146/248b7a32-1a25-4b61-9fa7-cf5f1eaee609)
 
 ## Table of Contents
 
