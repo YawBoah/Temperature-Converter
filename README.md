@@ -26,14 +26,14 @@ The Temperature Converter is a web-based tool that allows users to convert tempe
 
 ## Usage
 
-1. Open the [Temperature Converter](https://example.com) in your web browser.
+1. Open the [Temperature Converter](https://yawboah.github.io/Temperature-Converter/) in your web browser.
 2. Enter a temperature value in the input field labeled "Celsius" or "Fahrenheit."
 3. The converted temperature will be displayed in the other input field as you type.
 4. To convert another temperature, simply replace the existing value in the input field.
 
 ## Installation
 
-There is no installation required for this web application. You can access it directly through your web browser by visiting [Temperature Converter](https://example.com).
+There is no installation required for this web application. You can access it directly through your web browser by visiting [Temperature Converter](https://yawboah.github.io/Temperature-Converter/).
 
 ## Contributing
 
