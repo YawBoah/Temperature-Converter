@@ -79,6 +79,12 @@ h1 span{
         font-size: 24px; /* Reduce font size for better readability */
       }
     
+      .wrapper {
+        margin: 20px; /* Add some margin around the wrapper for breathing space */
+        padding: 20px; /* Reduce padding for a more compact layout */
+        border-radius: 12px; /* Slightly reduce border radius for a softer look */
+      }
+    
      
   }
   
