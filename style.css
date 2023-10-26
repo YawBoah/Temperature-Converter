@@ -67,6 +67,29 @@ h1 span{
     display: none;
 }
 
+/* Features section */
+.features {
+    background: rgba(255, 255, 255, 0.1);
+    padding: 20px;
+    border-radius: 12px;
+    box-shadow: 0 5px 10px rgba(0, 0, 0, 0.2);
+    margin: 20px;
+    text-align: center;
+}
+
+h2 {
+    font-size: 24px;
+    color: #04481d;
+    margin-bottom: 10px;
+}
+
+ul {
+    list-style-type: disc;
+    margin-left: 20px;
+    font-size: 18px;
+    color: #019f55;
+}
+
 @media screen and (max-width: 480px) {
     body {
       background: linear-gradient(135deg, #ffffff, #ffffcc, #153677);
