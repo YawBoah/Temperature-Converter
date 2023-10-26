@@ -85,6 +85,10 @@ h1 span{
         border-radius: 12px; /* Slightly reduce border radius for a softer look */
       }
     
-     
+      .wrapper .input-box h6 {
+        font-size: 12px; /* Reduce font size for better readability */
+      }
+    
+      
   }
   
